@@ -1,3 +1,31 @@
+# Spotify Users Clustering
+
+## Project Description
+Analysis of Spotify user behavior, segmentation into 4 clusters, and identification of key user behavior patterns.
+
+## Key Results
+- Identified 4 user types with different activity levels and subscription types
+- Silhouette score: 0.73 (high clustering quality)
+- Discovered users (12%) who pay for subscription but don't use the service
+
+## Technologies
+- Python (pandas, numpy, scikit-learn)
+- Visualization: matplotlib, seaborn
+- Clustering: K-Means, Agglomerative, PCA
+
+## Как запустить
+```bash
+git clone https://github.com/sonnnnkaaa/SpotifyUsersBehavior
+cd SpotifyUsersBehavior
+python -m venv .venv
+pip install -r requirements.txt
+jupyter notebook code/spotify-users-behavior-clustering.ipynb
+```
+
+File `spotify-users-behavior-clustering.ipynb` can be opened in Google Colab or VSCode.
+
+---
+
 # Кластеризация пользователей Spotify
 
 ## Описание проекта
