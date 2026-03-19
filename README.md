@@ -13,7 +13,7 @@ Analysis of Spotify user behavior, segmentation into 4 clusters, and identificat
 - Visualization: matplotlib, seaborn
 - Clustering: K-Means, Agglomerative, PCA
 
-## Как запустить
+## How to run
 ```bash
 git clone https://github.com/sonnnnkaaa/SpotifyUsersBehavior
 cd SpotifyUsersBehavior
