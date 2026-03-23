@@ -1,5 +1,7 @@
 # Spotify Users Clustering
 
+Data: https://www.kaggle.com/datasets/sahilislam007/spotify-user-behavior-and-pattern
+
 ## Project Description
 Analysis of Spotify user behavior, segmentation into 4 clusters, and identification of key user behavior patterns.
 
@@ -27,6 +29,8 @@ File `spotify-users-behavior-clustering.ipynb` can be opened in Google Colab or 
 ---
 
 # Кластеризация пользователей Spotify
+
+Данные: https://www.kaggle.com/datasets/sahilislam007/spotify-user-behavior-and-pattern
 
 ## Описание проекта
 Анализ поведения пользователей Spotify, сегментация на 4 кластера и выявление основных моделей поведения пользователей.
